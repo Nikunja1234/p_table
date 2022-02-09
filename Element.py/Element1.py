@@ -1,5 +1,3 @@
-from tokenize import String
-
 
 Element1 = {
     1  : "Hydrogen",
